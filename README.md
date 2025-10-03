@@ -1,7 +1,7 @@
 # face-recognition-project-1
 face recognition project 1
 
-| Syntax | Description |
+| Model | Test Acc |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+| VGG16 | 90% |
+| InceptionV3 | 92% | 
